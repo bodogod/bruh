@@ -1,2 +1,2 @@
-Username: iTzGod
-password: diogo123
+iTzGod
+diogo123
